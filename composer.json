@@ -43,6 +43,6 @@
     "require": {
         "intervention/image": "^2.7",
         "illuminate/support": ">=10",
-        "statamic/cms": "^5.7"
+        "statamic/cms": "^5.7 || ^6.0"
     }
 }
